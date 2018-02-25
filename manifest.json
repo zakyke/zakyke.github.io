@@ -1,7 +1,7 @@
 {
   "short_name": "Group Notify",
   "name": "Send predefined messages to group members",
-  "homepage": "http://zakyke.github.io",
+  "homepage": "https://zakyke.github.io",
   "icons": [{
     "src": "megaphone.ico",
     "sizes": "192x192",
