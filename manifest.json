@@ -2,11 +2,13 @@
   "short_name": "Group Notify",
   "name": "Send predefined messages to group members",
   "homepage": "https://zakyke.github.io",
-  "icons": [{
-    "src": "megaphone.ico",
-    "sizes": "192x192",
-    "type": "image/png"
-  }],
+  "icons": [
+    {
+      "src": "megaphone.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
   "start_url": "",
   "display": "standalone",
   "theme_color": "#000000",
